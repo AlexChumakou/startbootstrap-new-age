@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![New Age Preview](https://startbootstrap.com/assets/img/screenshots/themes/new-age.png)](https://blackrockdigital.github.io/startbootstrap-new-age/)
+[![New Age Preview](https://www.mingoride.com](https://blackrockdigital.github.io/startbootstrap-new-age/)
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-new-age/)**
 
