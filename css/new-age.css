@@ -421,7 +421,7 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 
 .bg-primary {
   background: #fdcc52;
-  background: linear-gradient(#ffffff, #fdc539);
+  background: linear-gradient(#ffffff, #ffffff);
 }
 
 .text-primary {

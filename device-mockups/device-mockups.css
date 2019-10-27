@@ -45,7 +45,6 @@
 		width: 100%; height: 100%;
 		background-size: 100% 100%;
 		background-repeat: no-repeat;
-		background-image: url("iphone11/iphone11_pro.png");
 	}
 
 		.device-mockup > .device > .screen {
@@ -86,7 +85,7 @@
 
 .device-mockup.iphone11_pro > .device > .screen,
 .device-mockup.iphone11_pro.portrait > .device > .screen {
-	top: 0%; bottom: 2%; left:0%; right: 0%;
+	top: 0%; bottom: 0%; left:0%; right: 0%;
 }
 
 
